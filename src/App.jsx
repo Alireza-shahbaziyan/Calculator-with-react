@@ -3,7 +3,7 @@ import CalculatorBox from "./Components/CalculatorBox";
 
 const App =()=>{
     return(
-        <div className="bg-slate-700 w-full h-screen flex justify-center items-center">
+        <div className="bg-black w-full h-screen flex justify-center items-center">
             <CalculatorBox/>
         </div>
     )
